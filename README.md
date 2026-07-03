@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋# Hi 👋 I'm Mohan
 
-<!--
-**mohanrajkrishnamoorthy21-max/mohanrajkrishnamoorthy21-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer & AI Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Learning AI, Full Stack Development, and Cloud
+- 💻 Building real-world projects
+- 🎯 Interested in AI Agents, AR/VR, and 3D Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- HTML, CSS, JavaScript
+- React, Node.js
+- Python
+- Git & GitHub
+- SQL
+- Three.js
+- AI & Machine Learning
+
+## Featured Projects
+- 🤖 AI Peer Review Simulator
+- 🌐 3D Portfolio Website
+- 📱 QR phising detection
+
+## GitHub Stats
+(Add GitHub stats cards here)
+
