@@ -1,4 +1,4 @@
-## Hi there 👋# Hi 👋 I'm Mohan
+👋# Hi there  👋 I'm Mohan
 
 🚀 Full Stack Developer & AI Enthusiast
 
