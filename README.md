@@ -19,7 +19,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "MOHANRAJI"
         self.role        = ["Full Stack Dev", "AI Engineer", "Data Analyst", "Cybersecurity Enthusiast"]
         self.languages   = ["Python", "JavaScript", "TypeScript", "SQL", "Bash"]
         self.learning    = ["LLM Fine-Tuning", "Red Teaming", "MLOps"]
@@ -89,10 +89,10 @@ me.say_hi()
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="180" />
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/yourusername)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/mohanrajkrishnamoorthy21-max)
 
 ### 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/mohanrajkrishnamoorthy21-max)
 
 </div>
 
@@ -139,10 +139,8 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanrajkrishnamoorthy21@gmail.com)
 
 </div>
 
