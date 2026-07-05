@@ -6,9 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+full-stack+applications;Turning+data+into+decisions;Securing+systems%2C+one+layer+at+a+time;Open+source+contributor+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=0e75b6)](https://github.com/yourusername?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=0e75b6)](https://github.com/yourusername)
 
 </div>
 
